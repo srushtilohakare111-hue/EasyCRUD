@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: studentapp
-        image: Srushtilohakare/backend:v1
+        image: 8793245323/backend:v1
         resources:
           limits:
             memory: "256Mi"
